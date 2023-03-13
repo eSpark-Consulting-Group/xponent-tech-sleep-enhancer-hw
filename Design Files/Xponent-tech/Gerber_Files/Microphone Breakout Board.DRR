@@ -1,0 +1,17 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Microphone Breakout Board.PcbDoc   3/13/2023  11:56:00 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Microphone Breakout Board.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             40        PTH        10.17inch (258.32mm)
+T2      32mil (0.8mm)                                             Round             9         PTH        1.08inch (27.32mm)
+T3      35mil (0.9mm)                                             Round             5         PTH        1.80inch (45.81mm)
+T4      79mil (2mm)                                               Round             4         PTH        6.26inch (159.07mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              58
+
+Total Processing Time (hh:mm:ss) : 00:00:00
