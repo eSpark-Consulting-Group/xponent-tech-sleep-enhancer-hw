@@ -5,8 +5,8 @@ C:\Users\LiberDB\Documents\GitHub\xponenttech-sleepenhancer-hardware\Design File
 File Design Information:
 
 Date:       15/03/23
-Time:       18:56
-Revision:   7355f5ddb507f41a65ae5769b2532e2be681b121
+Time:       20:51
+Revision:   f63ea2fe31a86bfd46cded07e00081abc1f135fd
 Variant:    No variations
 Units used: mm
 
@@ -15,14 +15,14 @@ C1         TopLayer 6,2626mm     63,3646mm    180      6,2626mm  63,3646mm 7,024
 C2         TopLayer 4,7230mm     51,3320mm    0        4,7230mm  51,3320mm 3,9610mm  51,3320mm 
 C3         TopLayer 0,9130mm     50,3160mm    270      0,9130mm  50,3160mm 0,9130mm  51,0780mm 
 C4         TopLayer 10,6366mm    51,3693mm    180      10,6366mm 51,3693mm 11,3986mm 51,3693mm 
-C5         TopLayer 8,4629mm     64,8537mm    270      8,4629mm  64,8537mm 8,4629mm  65,6157mm 
+C5         TopLayer 12,9286mm    54,8386mm    270      12,9286mm 54,8386mm 12,9286mm 55,6006mm 
 C6         TopLayer 18,1342mm    52,9830mm    90       18,1342mm 52,9830mm 18,1342mm 52,2210mm 
 C7         TopLayer 22,9089mm    52,9830mm    270      22,9089mm 52,9830mm 22,9089mm 53,7450mm 
 C8         TopLayer 5,9710mm     47,9030mm    180      5,9710mm  47,9030mm 7,7710mm  47,9030mm 
 C9         TopLayer 25,4489mm    52,9830mm    270      25,4489mm 52,9830mm 25,4489mm 53,7450mm 
 C10        TopLayer 37,2818mm    52,8654mm    180      37,2818mm 52,8654mm 38,0438mm 52,8654mm 
 C11        TopLayer 28,8773mm    53,4402mm    270      28,8773mm 53,4402mm 28,8773mm 53,9101mm 
-C12        TopLayer 32,4807mm    46,5132mm    0        32,4807mm 46,5132mm 32,0108mm 46,5132mm 
+C12        TopLayer 32,4807mm    46,3862mm    0        32,4807mm 46,3862mm 32,0108mm 46,3862mm 
 C13        TopLayer 44,6010mm    53,4000mm    0        44,6010mm 53,4000mm 43,8390mm 53,4000mm 
 C14        TopLayer 45,4646mm    38,3780mm    270      45,4646mm 38,3780mm 45,4646mm 39,6480mm 
 C15        TopLayer 45,4646mm    22,7570mm    90       45,4646mm 22,7570mm 45,4646mm 21,4870mm 
@@ -52,7 +52,7 @@ R13        TopLayer 39,9020mm    56,0310mm    270      39,9020mm 56,0310mm 39,90
 R14        TopLayer 29,7166mm    60,9986mm    270      29,7166mm 60,9986mm 29,7166mm 63,4986mm 
 R15        TopLayer 25,8050mm    47,0140mm    270      25,8050mm 47,0140mm 25,8050mm 47,7760mm 
 R16        TopLayer 27,7100mm    53,0084mm    90       27,7100mm 53,0084mm 27,7100mm 52,2464mm 
-R17        TopLayer 30,2735mm    46,4683mm    180      30,2735mm 46,4683mm 31,0355mm 46,4683mm 
+R17        TopLayer 30,2735mm    46,3667mm    180      30,2735mm 46,3667mm 31,0355mm 46,3667mm 
 R18        TopLayer 42,8230mm    31,4184mm    90       42,8230mm 31,4184mm 42,8230mm 30,6564mm 
 R19        TopLayer 42,8230mm    15,9840mm    90       42,8230mm 15,9840mm 42,8230mm 15,2220mm 
 R20        TopLayer 40,2830mm    31,0120mm    90       40,2830mm 31,0120mm 40,2830mm 29,9960mm 
@@ -89,7 +89,7 @@ R50        TopLayer 10,6920mm    0,8114mm     90       10,6920mm 0,8114mm  10,69
 R51        TopLayer 8,1520mm     0,8114mm     90       8,1520mm  0,8114mm  8,1520mm  0,0494mm  
 R52        TopLayer 5,6120mm     0,8114mm     90       5,6120mm  0,8114mm  5,6120mm  0,0494mm  
 R53        TopLayer 3,0720mm     0,8114mm     90       3,0720mm  0,8114mm  3,0720mm  0,0494mm  
-R54        TopLayer 47,3570mm    56,9200mm    90       47,3570mm 56,9200mm 47,3570mm 55,9040mm 
+R54        TopLayer 47,3570mm    56,9962mm    90       47,3570mm 56,9962mm 47,3570mm 55,9802mm 
 R55        TopLayer 27,9640mm    0,6082mm     90       27,9640mm 0,6082mm  27,9640mm 0,1383mm  
 R56        TopLayer 25,4240mm    0,8114mm     90       25,4240mm 0,8114mm  25,4240mm 0,0494mm  
 R57        TopLayer 22,8840mm    0,8114mm     90       22,8840mm 0,8114mm  22,8840mm 0,0494mm  

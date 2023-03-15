@@ -2,8 +2,33 @@
 FileName = Microphone Breakout Board.GBR
 AutoAperture = True
 *************************************************************
-Generating : Bottom Pad Master
-      File : Microphone Breakout Board.GPB
+Generating : Board Outline
+      File : Microphone Breakout Board.GM2
+
+    Adding Layer      : Board Outline
+
+
+Used DCodes :
+    D137
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : Microphone Breakout Board.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D136
+    D137
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : Microphone Breakout Board.GBP
+
+    Adding Layer      : Bottom Paste
 
     Adding Layer      : Bottom Layer
 
@@ -11,17 +36,33 @@ Generating : Bottom Pad Master
 
 
 Used DCodes :
-    D127
-    D128
-    D129
-    D130
-    D131
-    D132
 *************************************************************
 
 *************************************************************
-Generating : Top Pad Master
-      File : Microphone Breakout Board.GPT
+Generating : Bottom Solder
+      File : Microphone Breakout Board.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : Microphone Breakout Board.GTS
+
+    Adding Layer      : Top Solder
 
     Adding Layer      : Top Layer
 
@@ -29,6 +70,44 @@ Generating : Top Pad Master
 
 
 Used DCodes :
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : Microphone Breakout Board.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D19
     D20
     D21
     D22
@@ -42,13 +121,6 @@ Used DCodes :
     D30
     D31
     D32
-    D33
-    D127
-    D128
-    D129
-    D130
-    D131
-    D132
 *************************************************************
 
 *************************************************************
@@ -68,14 +140,11 @@ Used DCodes :
     D16
     D17
     D18
-    D19
 *************************************************************
 
 *************************************************************
-Generating : Top Paste
-      File : Microphone Breakout Board.GTP
-
-    Adding Layer      : Top Paste
+Generating : Top Pad Master
+      File : Microphone Breakout Board.GPT
 
     Adding Layer      : Top Layer
 
@@ -83,6 +152,7 @@ Generating : Top Paste
 
 
 Used DCodes :
+    D19
     D20
     D21
     D22
@@ -96,14 +166,17 @@ Used DCodes :
     D30
     D31
     D32
-    D33
+    D128
+    D129
+    D130
+    D131
+    D132
+    D133
 *************************************************************
 
 *************************************************************
-Generating : Bottom Paste
-      File : Microphone Breakout Board.GBP
-
-    Adding Layer      : Bottom Paste
+Generating : Bottom Pad Master
+      File : Microphone Breakout Board.GPB
 
     Adding Layer      : Bottom Layer
 
@@ -111,29 +184,12 @@ Generating : Bottom Paste
 
 
 Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : Microphone Breakout Board.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D12
-    D135
-*************************************************************
-
-*************************************************************
-Generating : Board Outline
-      File : Microphone Breakout Board.GM2
-
-    Adding Layer      : Board Outline
-
-
-Used DCodes :
-    D12
+    D128
+    D129
+    D130
+    D131
+    D132
+    D133
 *************************************************************
 
 *************************************************************
@@ -146,12 +202,11 @@ Generating : Bottom Layer
 
 
 Used DCodes :
+    D56
     D57
     D58
-    D59
+    D60
     D61
-    D62
-    D127
     D128
     D129
     D130
@@ -159,6 +214,7 @@ Used DCodes :
     D132
     D133
     D134
+    D135
 *************************************************************
 
 *************************************************************
@@ -171,6 +227,7 @@ Generating : Top Layer
 
 
 Used DCodes :
+    D19
     D20
     D21
     D22
@@ -184,7 +241,7 @@ Used DCodes :
     D30
     D31
     D32
-    D33
+    D56
     D57
     D58
     D59
@@ -262,63 +319,7 @@ Used DCodes :
     D131
     D132
     D133
-*************************************************************
-
-*************************************************************
-Generating : Top Solder
-      File : Microphone Breakout Board.GTS
-
-    Adding Layer      : Top Solder
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
-    D53
-    D54
-    D55
-    D56
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : Microphone Breakout Board.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D51
-    D52
-    D53
-    D54
-    D55
-    D56
+    D134
 *************************************************************
 
 *************************************************************
@@ -331,10 +332,10 @@ Generating : Drill Drawing
 
 
 Used DCodes :
-    D12
-    D136
     D137
     D138
+    D139
+    D140
 *************************************************************
 
 *************************************************************
@@ -347,6 +348,6 @@ Generating : Drill Guide
 
 
 Used DCodes :
-    D136
+    D138
 *************************************************************
 
