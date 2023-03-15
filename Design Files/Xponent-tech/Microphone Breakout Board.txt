@@ -1,0 +1,42 @@
+Board Information Report
+Filename     : C:\Users\LiberDB\Documents\GitHub\xponenttech-sleepenhancer-hardware\Design Files\Xponent-tech\Microphone Breakout Board.PcbDoc
+Date         : 3/15/2023
+Time         : 5:17:32 PM
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 1968.504milsx2680mils
+    Components on board, 111
+count : 2
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 238
+    Connections routed, 238
+    Connections remaining, 0
+count : 4
+
+Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
+    Top Layer, 0, 306, 0, 168, 0, 116, 6, 0
+    Bottom Layer, 0, 0, 0, 63, 0, 1, 4, 0
+    Dimensions, 0, 0, 0, 32, 4, 0, 0, 109
+    Board Outline, 0, 0, 0, 4, 0, 0, 0, 0
+    Fabrication, 0, 0, 0, 373, 26, 0, 0, 0
+    Multi-Layer, 0, 18, 44, 0, 0, 0, 1, 0
+    Top Paste, 0, 0, 0, 0, 0, 0, 0, 0
+    Top Overlay, 0, 0, 0, 601, 232, 21, 0, 0
+    Top Solder, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Solder, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Overlay, 0, 0, 0, 3075, 1, 0, 0, 0
+    Bottom Paste, 0, 0, 0, 0, 0, 0, 0, 0
+    Drill Guide, 0, 0, 0, 0, 0, 0, 0, 0
+    Keep-Out Layer, 0, 0, 0, 0, 0, 0, 0, 0
+    Drill Drawing, 1, 0, 0, 33, 42, 0, 0, 0
+count : 15
+
+Drill Pairs, Vias
+count : 0
+
+Non-Plated Hole Size, Pads, Vias
+    0mils, 0, 0
+count : 1
